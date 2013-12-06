@@ -19,4 +19,3 @@ test:
 	@echo $(subst ee,EE,feet on the street)
 	@echo $(word 2,hello world)
 	@echo $(wildcard *.c)
-	@echo $(wildcard ~/Project/cti-a5s_linux_sdk3.3/ambarella/kernel/linux/Makefile)
